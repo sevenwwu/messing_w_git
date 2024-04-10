@@ -1,6 +1,6 @@
 init code
 
-checkpoint1 reached
-
-
 issue fixed
+
+main is worked on some more
+
