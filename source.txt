@@ -1,1 +1,3 @@
 init code
+
+checkpoint1 reached
